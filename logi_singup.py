@@ -1,5 +1,4 @@
 import json
-import os
 dic={}
 dic1={}
 userdetail=[]
